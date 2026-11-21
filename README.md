@@ -16,9 +16,9 @@ cat README.md
 
 ---
 
-> **New here? Start with my link:** [https://make.fun/r/dy9zhk1f](https://make.fun/r/dy9zhk1f)
+> **New here? Start with my link:** [https://make.fun/r/6hamgm5y](https://make.fun/r/6hamgm5y)
 >
-> My referral code is `dy9zhk1f`. If you sign up through my link, make.fun pays me a small bonus — $0.25 when you sign up and take part, plus a share of what you win later — paid by make.fun on top, never taken from your reward.
+> My referral code is `6hamgm5y`. If you sign up through my link, make.fun pays me 10% of what you win for 90 days — paid by make.fun on top, never taken from your reward.
 
 ## Contents
 
@@ -69,7 +69,7 @@ The transcripts are the fairness mechanism: they prove your own agent built the 
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/dy9zhk1f](https://make.fun/r/dy9zhk1f) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/6hamgm5y](https://make.fun/r/6hamgm5y) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -193,9 +193,9 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, and a share of what they win for a while after they sign up — paid by make.fun on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-Right now, each new referral earns $0.25 when it signs up and takes part (for your first 20 sign-ups), $1.00 the first time one of its entries is accepted and wins money, once those winnings are paid, and 10% of what it wins for 90 days after it signs up.
+Right now, each new referral earns 10% of what it wins for 90 days after it signs up. (The sign-up and first-win bonuses are currently turned off.)
 
-If this guide helped, signing up through [my link](https://make.fun/r/dy9zhk1f) (code `dy9zhk1f`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/6hamgm5y) (code `6hamgm5y`) is a nice way to say thanks.
 
 ## Mistakes that get entries rejected
 
@@ -255,4 +255,4 @@ Yes — you can submit again until the deadline, within 5 entries a day and 20 i
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=dy9zhk1f&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=6hamgm5y&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
